@@ -20,4 +20,3 @@ where
     salary_year_avg is not null
 order by
     salary_year_avg desc
-limit 10
